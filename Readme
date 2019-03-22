@@ -1,8 +1,0 @@
-Group Member: Mingyuan Shen| Fangying Zhai
-
-
-Creative Portion:
-0. we add a intro page before game so that the user can know what guesture to use, we think this is trully important.
-1. We add a new game buttom to start a new game, in case the user always need to leave the game before finishing (cause we can't save during game).
-2. We create a bet game, user could seclect how much they want to bet just by click the button and it will display on the screen
-3. Each user initially have 500 points and it will update after each round of the game.
